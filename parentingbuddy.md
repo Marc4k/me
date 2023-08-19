@@ -11,6 +11,7 @@ Durch eine Vielzahl von Funktionen und Ressourcen ermöglicht die App eine gezie
 ## Funktionen
 - Anmeldung/Registrierung mit Firebase Auth
 - Google, Apple und Facebook Sign In
+- State Managment mit Bloc
 - Abonnementverwaltung mit Revenuecat
 - Offline-Support mit Isar
 - Audio-Player (Podcast)
@@ -21,7 +22,7 @@ Durch eine Vielzahl von Funktionen und Ressourcen ermöglicht die App eine gezie
 - Firebase Auth und Storage
 - Revenuecat & Adapty 
 - Google, Apple und Facebook Sign In
-- ChatGPT 
+- OpenAI Api 
 - VsCode 
 
 
